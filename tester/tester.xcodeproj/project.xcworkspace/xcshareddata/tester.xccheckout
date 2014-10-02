@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3F2BB741-894B-4A21-A62E-274680ABD373</string>
+	<key>IDESourceControlProjectName</key>
+	<string>tester</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B01B8F0F7140D289052C0C506917D03724F3EDD1</key>
+		<string>https://github.com/jchisman1/ToDoApp.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>tester/tester.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B01B8F0F7140D289052C0C506917D03724F3EDD1</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jchisman1/ToDoApp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B01B8F0F7140D289052C0C506917D03724F3EDD1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B01B8F0F7140D289052C0C506917D03724F3EDD1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ToDoApp</string>
+		</dict>
+	</array>
+</dict>
+</plist>
