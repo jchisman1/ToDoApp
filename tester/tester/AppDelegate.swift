@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  ToDoApp
+//  tester
 //
-//  Created by James Chisolm on 9/29/14.
+//  Created by James Chisolm on 9/30/14.
 //  Copyright (c) 2014 James Chisolm. All rights reserved.
 //
 
@@ -16,7 +16,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
         // Override point for customization after application launch.
-        
         return true
     }
 
